@@ -1,8 +1,8 @@
 /*
 ** ###################################################################
-**     Processors:          MKW41Z256VHT4
+**     Processors:          Ryzen5000
 **                          MKW41Z512CAT4
-**                          MKW41Z512VHT4
+**                          intel-i9
 **
 **     Compilers:           Keil ARM C/C++ Compiler
 **                          GNU C Compiler
